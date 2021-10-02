@@ -1,5 +1,5 @@
 # Polski podział administracyjny
-Repozytorium powstało ze względu na to, że nie znalazłem na internecie podobnego zbioru danych i wykonałem go za pomocą autorskich skryptów.
+Repozytorium powstało ze względu na to, że nie znalazłem na internecie podobnego zbioru danych, wykonałem go za pomocą autorskich skryptów.
 ### Miasta
  - ID
  - nazwę
