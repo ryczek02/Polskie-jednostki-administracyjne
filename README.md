@@ -21,7 +21,7 @@ Repozytorium powstało ze względu na to, że nie znalazłem na internecie podob
 Zbiór danych sformatowany został w UTF-8
 
 ## Przykładowe wykorzystanie
-Poszukiwanie miast w danym obrębie
+Odległość pomiędzy miastami
 
 Javascript:
 ```javascript
