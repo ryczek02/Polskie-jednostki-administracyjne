@@ -1,5 +1,5 @@
 # Polski podział administracyjny
-Repozytorium powstało ze względu na to, że nie znalazłem na internecie podobnego zbioru danych, wykonałem go za pomocą autorskich skryptów i w oparciu o dane (Głównego Urzędu Statystycznego)[https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/pobieranie/pliki_pelne.aspx?contrast=default]
+Repozytorium powstało ze względu na to, że nie znalazłem na internecie podobnego zbioru danych, wykonałem go za pomocą autorskich skryptów i w oparciu o dane [Głównego Urzędu Statystycznego](https://eteryt.stat.gov.pl/eTeryt/rejestr_teryt/udostepnianie_danych/baza_teryt/uzytkownicy_indywidualni/pobieranie/pliki_pelne.aspx?contrast=default)
 
 ### Miasta
  - ID
