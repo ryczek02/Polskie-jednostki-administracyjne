@@ -20,5 +20,53 @@ Repozytorium powstało ze względu na to, że nie znalazłem na internecie podob
 
 Zbiór danych sformatowany został w UTF-8
 
+## Przykładowe wykorzystanie
+Poszukiwanie miast w danym obrębie
+
+Javascript:
+```javascript
+ function calcCrow(lat1, lon1, lat2, lon2) 
+    {
+	  
+      var R = 6371; // km, m=6371000 itp.
+      var dLat = toRad(lat2-lat1);
+      var dLon = toRad(lon2-lon1);
+      var lat1 = toRad(lat1);
+      var lat2 = toRad(lat2);
+
+      var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+        Math.sin(dLon/2) * Math.sin(dLon/2) * Math.cos(lat1) * Math.cos(lat2); 
+      var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)); 
+      var d = R * c;
+      return d;
+    }
+
+    function toRad(Value) 
+    {
+        return Value * Math.PI / 180;
+    }
+```
+PHP:
+```php
+function calcCrow($lat1, $lon1, $lat2, $lon2){
+        $R = 6371; // km, m=6371000 itp.
+        $dLat = toRad($lat2-$lat1);
+        $dLon = toRad($lon2-$lon1);
+        $lat1 = toRad($lat1);
+        $lat2 = toRad($lat2);
+
+        $a = sin($dLat/2) * sin($dLat/2) +sin($dLon/2) * sin($dLon/2) * cos($lat1) * cos($lat2); 
+        $c = 2 * atan2(sqrt($a), sqrt(1-$a)); 
+        $d = $R * $c;
+        return $d;
+}
+
+function toRad($Value) 
+{
+    return $Value * pi() / 180;
+}
+```
+
+
 ## Licencja
 [MIT](https://choosealicense.com/licenses/mit/) - prawo do używania, kopiowania, modyfikowania i rozpowszechniania
