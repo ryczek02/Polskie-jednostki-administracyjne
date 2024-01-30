@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "dolnośląskie",
+        "slug": "dolnoslaskie",
+        "name_locative": "dolnośląskim",
+        "lon": 16.037986,
+        "lat": 51.107885
+    },
+    {
+        "id": 2,
+        "name": "kujawsko-pomorskie",
+        "slug": "kujawsko-pomorskie",
+        "name_locative": "kujawsko-pomorskim",
+        "lon": 18.715840,
+        "lat": 53.166472
+    },
+    {
+        "id": 3,
+        "name": "lubelskie",
+        "slug": "lubelskie",
+        "name_locative": "lubelskim",
+        "lon": 22.566619,
+        "lat": 51.246452
+    },
+    {
+        "id": 4,
+        "name": "lubuskie",
+        "slug": "lubuskie",
+        "name_locative": "lubuskim",
+        "lon": 15.497790,
+        "lat": 51.935621
+    },
+    {
+        "id": 5,
+        "name": "łódzkie",
+        "slug": "lodzkie",
+        "name_locative": "łódzkim",
+        "lon": 19.454710,
+        "lat": 51.768732
+    },
+    {
+        "id": 6,
+        "name": "małopolskie",
+        "slug": "malopolskie",
+        "name_locative": "małopolskim",
+        "lon": 19.360060,
+        "lat": 49.803765
+    },
+    {
+        "id": 7,
+        "name": "mazowieckie",
+        "slug": "mazowieckie",
+        "name_locative": "mazowieckim",
+        "lon": 21.009448,
+        "lat": 52.247700
+    },
+    {
+        "id": 8,
+        "name": "opolskie",
+        "slug": "opolskie",
+        "name_locative": "opolskim",
+        "lon": 17.930330,
+        "lat": 50.672111
+    },
+    {
+        "id": 9,
+        "name": "podkarpackie",
+        "slug": "podkarpackie",
+        "name_locative": "podkarpackim",
+        "lon": 21.705067,
+        "lat": 49.993501
+    },
+    {
+        "id": 10,
+        "name": "podlaskie",
+        "slug": "podlaskie",
+        "name_locative": "podlaskim",
+        "lon": 23.174620,
+        "lat": 53.154548
+    },
+    {
+        "id": 11,
+        "name": "pomorskie",
+        "slug": "pomorskie",
+        "name_locative": "pomorskim",
+        "lon": 18.293685,
+        "lat": 54.441601
+    },
+    {
+        "id": 12,
+        "name": "śląskie",
+        "slug": "slaskie",
+        "name_locative": "śląskim",
+        "lon": 18.971946,
+        "lat": 50.264892
+    },
+    {
+        "id": 13,
+        "name": "świętokrzyskie",
+        "slug": "swietokrzyskie",
+        "name_locative": "świętokrzyskim",
+        "lon": 20.627735,
+        "lat": 50.807632
+    },
+    {
+        "id": 14,
+        "name": "warmińsko-mazurskie",
+        "slug": "warminsko-mazurskie",
+        "name_locative": "warmińsko-mazurskim",
+        "lon": 20.929790,
+        "lat": 53.775575
+    },
+    {
+        "id": 15,
+        "name": "wielkopolskie",
+        "slug": "wielkopolskie",
+        "name_locative": "wielkopolskim",
+        "lon": 17.033792,
+        "lat": 52.348379
+    },
+    {
+        "id": 16,
+        "name": "zachodniopomorskie",
+        "slug": "zachodniopomorskie",
+        "name_locative": "zachodniopomorskim",
+        "lon": 15.490046,
+        "lat": 53.135973
+    }
+]

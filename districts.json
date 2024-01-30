@@ -1,0 +1,164 @@
+[
+    {
+       "id":"367",
+       "city_id":"437",
+       "full_name":"Warszawa, Bemowo",
+       "name":"Bemowo",
+       "slug":"warszawa-bemowo",
+       "lon":"20.90661",
+       "lat":"52.24336"
+    },
+    {
+       "id":"365",
+       "city_id":"437",
+       "full_name":"Warszawa, Białołęka",
+       "name":"Białołęka",
+       "slug":"warszawa-bialoleka",
+       "lon":"20.99661",
+       "lat":"52.33008"
+    },
+    {
+       "id":"369",
+       "city_id":"437",
+       "full_name":"Warszawa, Bielany",
+       "name":"Bielany",
+       "slug":"warszawa-bielany",
+       "lon":"20.93958",
+       "lat":"52.28479"
+    },
+    {
+       "id":"353",
+       "city_id":"437",
+       "full_name":"Warszawa, Mokotów",
+       "name":"Mokotów",
+       "slug":"warszawa-mokotow",
+       "lon":"21.03232",
+       "lat":"52.19282"
+    },
+    {
+       "id":"355",
+       "city_id":"437",
+       "full_name":"Warszawa, Ochota",
+       "name":"Ochota",
+       "slug":"warszawa-ochota",
+       "lon":"20.97928",
+       "lat":"52.21374"
+    },
+    {
+       "id":"379",
+       "city_id":"437",
+       "full_name":"Warszawa, Praga-Północ",
+       "name":"Praga-Północ",
+       "slug":"warszawa-praga-polnoc",
+       "lon":"21.03784",
+       "lat":"52.25786"
+    },
+    {
+       "id":"381",
+       "city_id":"437",
+       "full_name":"Warszawa, Praga-Południe",
+       "name":"Praga-Południe",
+       "slug":"warszawa-praga-poludnie",
+       "lon":"21.08553",
+       "lat":"52.23876"
+    },
+    {
+       "id":"361",
+       "city_id":"437",
+       "full_name":"Warszawa, Rembertów",
+       "name":"Rembertów",
+       "slug":"warszawa-rembertow",
+       "lon":"21.15547",
+       "lat":"52.25906"
+    },
+    {
+       "id":"351",
+       "city_id":"437",
+       "full_name":"Warszawa, Śródmieście",
+       "name":"Śródmieście",
+       "slug":"warszawa-srodmiescie",
+       "lon":"21.01522",
+       "lat":"52.23474"
+    },
+    {
+       "id":"377",
+       "city_id":"437",
+       "full_name":"Warszawa, Targówek",
+       "name":"Targówek",
+       "slug":"warszawa-targowek",
+       "lon":"21.05787",
+       "lat":"52.28055"
+    },
+    {
+       "id":"371",
+       "city_id":"437",
+       "full_name":"Warszawa, Ursus",
+       "name":"Ursus",
+       "slug":"warszawa-ursus",
+       "lon":"20.88159",
+       "lat":"52.19474"
+    },
+    {
+       "id":"373",
+       "city_id":"437",
+       "full_name":"Warszawa, Ursynów",
+       "name":"Ursynów",
+       "slug":"warszawa-ursynow",
+       "lon":"21.03333",
+       "lat":"52.14010"
+    },
+    {
+       "id":"383",
+       "city_id":"437",
+       "full_name":"Warszawa, Wawer",
+       "name":"Wawer",
+       "slug":"warszawa-wawer",
+       "lon":"21.17927",
+       "lat":"52.19307"
+    },
+    {
+       "id":"533",
+       "city_id":"437",
+       "full_name":"Warszawa, Wesoła",
+       "name":"Wesoła",
+       "slug":"warszawa-wesola",
+       "lon":"21.24147",
+       "lat":"52.23302"
+    },
+    {
+       "id":"375",
+       "city_id":"437",
+       "full_name":"Warszawa, Wilanów",
+       "name":"Wilanów",
+       "slug":"warszawa-wilanow",
+       "lon":"21.09296",
+       "lat":"52.15926"
+    },
+    {
+       "id":"357",
+       "city_id":"437",
+       "full_name":"Warszawa, Włochy",
+       "name":"Włochy",
+       "slug":"warszawa-wlochy",
+       "lon":"20.93517",
+       "lat":"52.19255"
+    },
+    {
+       "id":"359",
+       "city_id":"437",
+       "full_name":"Warszawa, Wola",
+       "name":"Wola",
+       "slug":"warszawa-wola",
+       "lon":"20.96608",
+       "lat":"52.23725"
+    },
+    {
+       "id":"363",
+       "city_id":"437",
+       "full_name":"Warszawa, Żoliborz",
+       "name":"Żoliborz",
+       "slug":"warszawa-zoliborz",
+       "lon":"20.98132",
+       "lat":"52.26735"
+    }
+ ]
